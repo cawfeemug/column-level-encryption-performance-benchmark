@@ -7,6 +7,7 @@ Does encrypting a database column slow it down or use more space, and does the c
 ## Overview
 
 | | |
+|---|---|
 | **Tech stack** | Oracle Database, Oracle APEX (SQL Workshop), SQL, PL/SQL, Excel (charts) |
 | **What I did** | Built two identical tables (plain vs. AES-256 encrypted), wrote PL/SQL to load data and time queries automatically, and compared results at 10k, 20k and 30k records |
 | **Reads** | No detectable slowdown from encryption |
