@@ -150,7 +150,7 @@ All values are mean elapsed milliseconds across runs. Source data: [`screenshots
 
 | Scaling (all sizes) | 10k | 20k | 30k |
 |---|---|---|---|
-| ![all](screenshots/chart_all.png) | ![10k](screenshots/10k_chart.png) | ![20k](screenshots/20k%20chart.png) | ![30k](screenshots/30k_chart.png) |
+| ![all](screenshots/chart_all.png) | ![10k](screenshots/10k_chart.png) | ![20k](screenshots/20k_chart.png) | ![30k](screenshots/30k_chart.png) |
 
 ### The quota failure at 30k
 
